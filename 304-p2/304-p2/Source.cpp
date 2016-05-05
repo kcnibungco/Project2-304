@@ -17,7 +17,7 @@ truth table for user-selected outputs.  It has the following features:
 5.	The gate count in each circuit is limited to 50.
 6.	Each line of the LDF should have the following format:
 	<GATE_NUMBER> <NAME> <TYPE> <INP1> [<INP2> ... <INP 8>] \n
-7.	The gate numbers should be contigious, beginning with 1.
+7.	The gate numbers should be contiguous, beginning with 1.
 8.	The simulator is invoked with command line argument(s):
 	a) Output to the screen
 	   --------------------
